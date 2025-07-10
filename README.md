@@ -31,25 +31,27 @@
 
 ###
 
-<h4 align="left">About me:</h4>
+<br clear="both">
+
+<h4 align="left"><b>About me:<b><br><br>-  currently studying <b>Lic. Computer Science<b> from the Federal University of Paraíba.<br>- full-stack developer.<br>- open to learning and projects</h4>
 
 ###
 
 <br clear="both">
 
-<p align="left">- currently studying Lic. Computer Science from the Federal University of Paraíba.<br>- full-stack developer.<br>- open to learning and projects</p>
+<p align="left"></p>
 
 ###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/allan-adriano-0b096634b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="30" alt="linkedin logo"  />
   </a>
   <a href="mailto:allanadriano.n@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="30" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/allan_aadriano?igsh=MWI4bHB0Ymtkd3MxcA==" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" height="30" alt="instagram logo"  />
   </a>
 </div>
 
